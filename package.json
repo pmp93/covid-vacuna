@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "engines": {
-    "node": "14.x"
+    "node": "22.x"
   },
   "scripts": {
     "analyze": "NODE_ICU_DATA=node_modules/full-icu ANALYZE=true next build",
